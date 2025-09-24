@@ -28,3 +28,19 @@ return: 0
 Funktion århundrade (år)
 Om århundradet = året/100
 OM år / 100 = 0 
+
+
+//Del 2 med nya grupper. (Mattias, Johannes, Twana)
+ //ENSURE QUESTION
+                    // Steg 1:Målet är att skapa en function som returnerar ?
+                    // Steg 2: str är den enda variabeln vi använder som ska skickas till functionen.
+                    // Steg 3: Om str slutar med ? (.endswith kontrollerar vad strängen slutar med)
+                    // så returneras den som en boolean, antingen true or false.
+                    // Annars returneras strängen + ?
+
+ //Calculate Average                   
+                    //CALCULATE AVERAGE
+                    // Steg 1: Målet att räkna ut medelvärdet av nummer
+                    // Steg 2: Array, sum, i
+                    // Steg 3: Om arrayen är 0 så returneras 0.
+                    // En for loop med variabel i
