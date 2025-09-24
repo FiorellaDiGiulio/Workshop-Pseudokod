@@ -1,3 +1,4 @@
+// Uppgift Students first grade
 // MÅL: Räkna ut slutbetyget utifrån provresultat och inlämnade projekt.
 // INPUTS: Vilka variabler som kommer till funktionen och vilken typ dehar – tex: exam: positivt heltal.
 // RETURN: Vad ska skickas tillbaka efter beräkning eller behandling avinputs och vilken typ har den – tex. result: decimaltal.
@@ -19,3 +20,11 @@ Om exam > 50 och projects > 2 då
 returnera: 75 
 
 return: 0
+
+
+//Uppgift 2: Centry from year 8kyu
+//: Det första århundradet sträcker sig från år 1 till och med år 100, det andra århundradet - från år 101 till och med år 200, etc.
+
+Funktion århundrade (år)
+Om århundradet = året/100
+OM år / 100 = 0 
